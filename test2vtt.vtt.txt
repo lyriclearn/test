@@ -1,0 +1,17 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:05.000 line:1
+<lang it>Line 1
+Line 2</lang>
+
+00:00:06.000 --> 00:00:32.000 line:1
+<lang it>Line 1
+Line 2</lang>
+
+00:00:01.000 --> 00:00:05.000 line:95%
+Line 1
+Line 2
+
+00:00:06.000 --> 00:00:32.000 line:95%
+Line 1
+Line 2
